@@ -20,9 +20,8 @@
         <img loading="lazy" src="https://ladatacuenta.com/wp-content/uploads/2021/01/instagram-logo-png-transparent-0.png" 
     height="60">
 </a> &nbsp;&nbsp;
-    <a href="https://open.spotify.com/user/r2r76g1x5dwf53l3q58kci3yp?si=i2Zmw6mPRr-9KBGUuPq5uw" target="_blank">
-        <img loading="lazy" src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r2r76g1x5dwf53l3q58kci3yp&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)" 
-    height="60">
+    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r2r76g1x5dwf53l3q58kci3yp&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+    
 
     
 

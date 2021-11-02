@@ -7,7 +7,7 @@
 
 
 
-##### <h4 align="center"> RRSS
+##### <h3 align="center"> RRSS
 </a> &nbsp;&nbsp;
     <a href="https://twitter.com/_mariioo17" target="_blank">
         <img loading="lazy" src="https://i.imgur.com/U4Uiaef.png" 
@@ -20,6 +20,6 @@
     
 
 
-##### <h4 align="center"> STATS
+##### <h3 align="center"> STATS
 
 ![Marioagk's github stats](https://github-readme-stats.vercel.app/api?username=marioagk&show_icons=true&theme=dracula)

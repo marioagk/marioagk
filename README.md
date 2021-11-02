@@ -19,8 +19,6 @@
     <a href="https://www.instagram.com/_mariioo17/" target="_blank">
         <img loading="lazy" src="https://ladatacuenta.com/wp-content/uploads/2021/01/instagram-logo-png-transparent-0.png" 
     height="60">
-</a> &nbsp;&nbsp;
-    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r2r76g1x5dwf53l3q58kci3yp&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) 
 
 
     
@@ -28,7 +26,14 @@
 
 ##### <h3 align="center"> STATS
 
-![Marioagk's github stats](https://github-readme-stats.vercel.app/api?username=marioagk&show_icons=true&theme=dracula)
+
+
+
+</a> &nbsp;&nbsp;
+    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r2r76g1x5dwf53l3q58kci3yp&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) 
+
+</a> &nbsp;&nbsp;
+    ![Marioagk's github stats](https://github-readme-stats.vercel.app/api?username=marioagk&show_icons=true&theme=dracula)
 
 
 ──────────────────────────────────────────────────────────────────────── mgk🧛🏽😴

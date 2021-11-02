@@ -1,6 +1,6 @@
 # <h1 align="center"> Ey, soy Mario
 
-#### Soy estudiante de 1DAM en el [IES Luis Vives](http://iesluisvives.es/) y básicamente me dedico a escuchar música , jugar videojuegos y  aprender 🙃.
+#### Soy estudiante de 1DAM en el [IES Luis Vives](http://iesluisvives.es/) y básicamente me dedico a escuchar música , jugar videojuegos y  aprender 🙃. 
 
 ![Font Vella](./images/videeo.gif)
 
@@ -28,4 +28,4 @@
 ![Marioagk's github stats](https://github-readme-stats.vercel.app/api?username=marioagk&show_icons=true&theme=dracula)
 
 
-                                       mgk🧛🏽😴
+─────────────────────────────────────────────────────────────────────────────────────────────  mgk🧛🏽😴

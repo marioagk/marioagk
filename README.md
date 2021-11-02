@@ -4,7 +4,5 @@
 
 #### Básicamente me dedico a escuchar música , jugar videojuegos y  aprender 🙃.
 
-[![Marioagk's GitHub stats](https://github-readme-stats.vercel.app/api?username=marioagk)](https://github.com/marioagk/github-readme-stats)
 
-
-
+![Marioagk's github stats](https://github-readme-stats.vercel.app/api?username=marioagk&show_icons=true&theme=dracula)

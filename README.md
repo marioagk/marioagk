@@ -2,7 +2,7 @@
 
 #### Soy estudiante de 1DAM en el [IES Luis Vives](http://iesluisvives.es/) y básicamente me dedico a escuchar música , jugar videojuegos y  aprender 🙃 ,
 
-![ mesi](videeo.gif) / ! [](videeo.gif)
+![](videeo.gif)
 
 
 

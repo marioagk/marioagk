@@ -1,6 +1,6 @@
-# <h1 align="center"> Ey, soy Mario
+# <h1 align="center"> Ey! soy Mario
 
-#### Soy estudiante de 1DAM en el [IES Luis Vives](http://iesluisvives.es/) y básicamente me dedico a escuchar música , jugar videojuegos y  aprender 🙃. 
+#### Soy estudiante de 1DAM en el [IES Luis Vives](http://iesluisvives.es/) ,  básicamente me dedico a escuchar música (sobretodo de ─> [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD)), jugar videojuegos y  aprender cosas sobre informática🙃.
 
 ![Font Vella](./images/videeo.gif)
 

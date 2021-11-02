@@ -1,5 +1,9 @@
 # <h1 align="center"> Ey! soy Mario
 
+# <h3 align="center">Welcome to my github profile/Bienvenid@ a mi perfil de github
+
+### ABOUT ME 😴:
+
 #### Soy estudiante de 1DAM en el [IES Luis Vives](http://iesluisvives.es/) ,  básicamente me dedico a escuchar música (sobretodo de ─> [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD)), jugar videojuegos y  aprender cosas sobre informática🙃.
 
 ![Font Vella](./images/videeo.gif)

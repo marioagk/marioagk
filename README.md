@@ -16,6 +16,10 @@
     <a href="https://www.instagram.com/_mariioo17/" target="_blank">
         <img loading="lazy" src="https://fotos-ayvisa.s3.eu-west-3.amazonaws.com/wp-content/uploads/2021/03/17232916/imagenes-de-instagram-png.jpg" 
     height="60">
+        </a> &nbsp;&nbsp;
+    <a href="https://open.spotify.com/user/r2r76g1x5dwf53l3q58kci3yp?si=i2Zmw6mPRr-9KBGUuPq5uw" target="_blank">
+        <img loading="lazy" src="https://e7.pngegg.com/pngimages/163/564/png-clipart-spotify-logo-spotify-samsung-gear-s3-music-streaming-media-podcast-macbook-miscellaneous-logo.png" 
+    height="60">
 
     
 

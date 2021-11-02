@@ -30,9 +30,10 @@
 
 
 </a> &nbsp;&nbsp;
-    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r2r76g1x5dwf53l3q58kci3yp&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)  ![Marioagk's github stats](https://github-readme-stats.vercel.app/api?username=marioagk&show_icons=true&theme=dracula)
+    <a[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r2r76g1x5dwf53l3q58kci3yp&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)  
 
 </a> &nbsp;&nbsp;
+    <a![Marioagk's github stats](https://github-readme-stats.vercel.app/api?username=marioagk&show_icons=true&theme=dracula)
 
 
 ──────────────────────────────────────────────────────────────────────── mgk🧛🏽😴

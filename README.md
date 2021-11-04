@@ -20,9 +20,8 @@
         <img loading="lazy" src="https://ladatacuenta.com/wp-content/uploads/2021/01/instagram-logo-png-transparent-0.png" 
     height="60">
 
-
 ───────────────────────────────────────
-#### gmail= mariocalvo2003@gmail.com
+Gmail= mariocalvo2003@gmail.com
 
 
 

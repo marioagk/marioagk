@@ -19,8 +19,9 @@
     <a href="https://www.instagram.com/_mariioo17/" target="_blank">
         <img loading="lazy" src="https://ladatacuenta.com/wp-content/uploads/2021/01/instagram-logo-png-transparent-0.png" 
     height="60">
-</a> &nbsp;&nbsp; 
-    <a gmail= "mariocalvo2003@gmail.com">
+
+
+#### gmail= mariocalvo2003@gmail.com
 
 
 

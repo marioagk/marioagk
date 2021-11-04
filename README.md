@@ -4,7 +4,7 @@
 
 ###  💤 ABOUT ME 💤:
 
-#### Actualmente estoy estudiando un Grado Superior de Desarrollo de Aplicaciones Multiplataforma (1ºDAM) en el [IES Luis Vives](http://iesluisvives.es/) . Básicamente me dedico a escuchar música 🎵(sobretodo de ─> [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD)), jugar videojuegos y  aprender cosas sobre informática🙃.
+#### Actualmente estoy estudiando un Grado Superior de Desarrollo de Aplicaciones Multiplataforma (1ºDAM) en el [IES Luis Vives](http://iesluisvives.es/) . Básicamente me dedico a escuchar música 🎵(sobretodo de ─> [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD)), jugar videojuegos y  aprender cosas sobre informática🙃.El perfil no es gran cosa , pero iré mejorandolo
 
 ![Font Vella](./images/videeo.gif)
 
@@ -19,6 +19,11 @@
     <a href="https://www.instagram.com/_mariioo17/" target="_blank">
         <img loading="lazy" src="https://ladatacuenta.com/wp-content/uploads/2021/01/instagram-logo-png-transparent-0.png" 
     height="60">
+</a> &nbsp;&nbsp; 
+    <a gmail= "mariocalvo2003@gmail.com">
+
+
+
 
 
     

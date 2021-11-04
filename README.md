@@ -4,7 +4,7 @@
 
 ###  💤 ABOUT ME 💤:
 
-#### Ahora mismo estoy estudiando un Grado Superior de Desarrollo de Aplicaciones Multiplataforma (1ºDAM) en el [IES Luis Vives](http://iesluisvives.es/) . Básicamente me dedico a escuchar música 🎵(sobretodo de ─> [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD)), jugar videojuegos y  aprender cosas sobre informática🙃.
+#### Actualmente estoy estudiando un Grado Superior de Desarrollo de Aplicaciones Multiplataforma (1ºDAM) en el [IES Luis Vives](http://iesluisvives.es/) . Básicamente me dedico a escuchar música 🎵(sobretodo de ─> [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD)), jugar videojuegos y  aprender cosas sobre informática🙃.
 
 ![Font Vella](./images/videeo.gif)
 
